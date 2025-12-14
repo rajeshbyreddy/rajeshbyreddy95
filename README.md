@@ -196,8 +196,8 @@ const currentGoals = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshbyreddy95/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshbyreddy95@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_My_Work-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_7075979652-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917075979652)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check_My_Work-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://yourportfolio.com](https://rajeshbyreddy.vercel.app/))
+
 
 </div>
 
