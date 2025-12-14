@@ -80,7 +80,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI ChatMate]((https://github.com/rajeshbyreddy/llm_chatbot))
+### 🤖 [AI ChatMate](https://github.com/rajeshbyreddy/llm_chatbot)
 **Full-Stack Generative AI Web Application**
 
 `React` `Flask` `LangChain` `Perplexity API` `PDF Processing`
