@@ -80,7 +80,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI ChatMate](https://github.com/yourusername/ai-chatmate)
+### 🤖 [AI ChatMate]((https://github.com/rajeshbyreddy/llm_chatbot))
 **Full-Stack Generative AI Web Application**
 
 `React` `Flask` `LangChain` `Perplexity API` `PDF Processing`
@@ -92,7 +92,7 @@
 
 ---
 
-### 🚗 [DriveHub](https://github.com/yourusername/drivehub)
+### 🚗 [DriveHub](https://github.com/rajeshbyreddy/carrentalsystem)
 **Enterprise Car Rental Platform**
 
 `Spring Boot 3.2.2` `Java 17` `MySQL` `Redis` `AWS (EC2, RDS, S3)`
@@ -104,7 +104,7 @@
 
 ---
 
-### 🛒 [Local Bazar](https://github.com/yourusername/local-bazar)
+### 🛒 [Local Bazar](https://github.com/rajeshbyreddy/local-bazar)
 **E-Commerce Marketplace Platform**
 
 `Next.js` `TypeScript` `MongoDB` `Tailwind CSS` `Cloudinary`
